@@ -2,7 +2,6 @@
 
 A collection of 20 scalable sun SVG icons representing different brightness levels, inspired by macOS. Perfect for UI sliders, apps, or custom brightness indicators.
 
-Preview
 <img src="sun_01.svg" alt="Brightness level 1" width="50">
 <img src="sun_02.svg" alt="Brightness level 2" width="50">
 <img src="sun_03.svg" alt="Brightness level 3" width="50">
