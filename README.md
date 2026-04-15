@@ -1,6 +1,6 @@
 ## 20 Sun SVGs for Brightness UI
 
-A collection of **20 SVG sun icons** representing different brightness levels. 
+A collection of **20 SVG sun icons** representing different brightness levels.
 Perfect for UI sliders, apps, or custom brightness indicators.
 
 | ![Brightness 1](icons/sun_01.svg) | ![Brightness 2](icons/sun_02.svg) | ![Brightness 3](icons/sun_03.svg) | ![Brightness 4](icons/sun_04.svg) |
